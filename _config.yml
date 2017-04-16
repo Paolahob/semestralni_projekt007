@@ -17,7 +17,7 @@ title: Správní sousedé - vzájemné zápůjčky a výpomoci
 email: 371717@mail.muni.cz
 description: > # this means to ignore newlines until "baseurl:"
   Web pro lidi žijící vzájemně v sousedství a s přáním žít více v komunitě a vzájemné souhře. Komunitní web sloužící jako nástroj pro vzájemné zápůjčky nářadí, nástrojů atd, aby nemuseli kupovat nic, co nevyužijí častěji, pro vzájemnou výpomoc, kdy každý může nabídnout svou dovednost, kterou jiný naopak postrádá. Sdílený prostor pro rady, návody, hodnocení výrobků v oblasti kutilství, pro svolávání skupinových aktivit a další možné aktivity, které se mohou ukázat časem až podle potřeb uživatelů. Do budoucna, pokud by web ožil je možno zapojit mírně reklamy anebo dát prostor crowfoundingu na komunitní projekty. Ještě mě napadá třeba share přebytků ze zahrádek apod.
-baseurl: "/learn-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/semestralni_projekt007" # the subpath of your site, e.g. /blog
 url: "https://jan-martinek.github.io/learn-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
