@@ -15,11 +15,11 @@ Web pro lidi žijící vzájemně v sousedství a s přáním žít více v komu
 
 Název webu ještě není úplně jasný, zatím pracujeme s návrhy jako:
 
-spravnisousede.cz
-sousedsousedovi.cz
-sousedovi.cz
-sousedskakomunita.cz
-spokojenysoused.cz
+- spravnisousede.cz
+- sousedsousedovi.cz
+- sousedovi.cz
+- sousedskakomunita.cz
+- spokojenysoused.cz
 
 #### Spřízněné weby...
 
