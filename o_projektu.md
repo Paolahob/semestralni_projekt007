@@ -3,7 +3,7 @@ layout: page
 title: O projektu
 ---
 
-#### Cílová supina
+#### Cílová skupina
 
 15+ 
 
