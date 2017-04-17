@@ -1,3 +1,10 @@
+body {
+	background-image: url(img/bg_plot.png);
+	background-position: bottom;
+	background-repeat: repeat-x;
+	background-color: #BEE3EB;
+}
+
 .wrapper {
 	margin: 50px auto;
 	max-width: 800px;
