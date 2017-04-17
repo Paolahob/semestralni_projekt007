@@ -3,6 +3,8 @@ layout: page
 title: O projektu
 ---
 
+# O PROJEKTU
+
 #### Cílová skupina
 
 15+ 
