@@ -26,9 +26,13 @@ spokojenysoused.cz
 ...či inspirace pro nás
 
 <a href="http://deeleconomie.nl">Deeleconomie.nl</a>
+
 <a href="http://spullendelen.nl">Spullendelen.nl</a>
+
 <a href="https://www.peerby.com/">Peerby.com</a>
+
 <a href="https://www.supersoused.cz/">Supersoused.cz</a>
+
 <a href="https://www.facebook.com/sharygator/">Sharygator</a>
 
 #### Ne tak úplně webové zdroje
