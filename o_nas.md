@@ -37,6 +37,7 @@ spokojenysoused.cz
 - CLARK, Susan a Delie CLARK. Tvorba vize komunity: příručka pro společné plánování udržitelného rozvoje komunit. Brno: Nadace Partnerství, 2004. Metody komunitního rozvoje. ISBN 80-239-2067-7.
 - DIONNE, E.J. Community works: the revival of civil society in America. Washington, D.C.: Brookings Institution Press, c1998. ISBN 0-8157-1868-3.
 - RICHARDSON, Lizzie. Performing the sharing economy. Geoforum [online]. 2015, 67, 121-129 [cit. 2017-04-17]. DOI: 10.1016/j.geoforum.2015.11.004. ISSN 00167185.
+- MCCAMANT, Kathryn, Charles DURRETT a Ellen. HERTZMAN. Cohousing: a contemporary approach to housing ourselves. 2nd ed. /. Berkeley, Calif.: Ten Speed Press, c1994. ISBN 0-89815-539-8.
 
 #### Média
 
