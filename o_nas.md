@@ -25,27 +25,11 @@ spokojenysoused.cz
 
 ...či inspirace pro nás
 
-- [http://deeleconomie.nl](Deeleconomie.nl)
-- [http://spullendelen.nl](Spullendelen.nl)
-- [https://www.peerby.com/](Peerby.com)
-- [https://www.supersoused.cz/](Supersoused.cz)
-- [https://www.facebook.com/sharygator/](Sharygator)
-
 - [Deeleconomie.nl](http://deeleconomie.nl)
 - [Spullendelen.nl](http://spullendelen.nl)
 - [Peerby.com](https://www.peerby.com/)
 - [Supersoused.cz](https://www.supersoused.cz/)
 - [Sharygator](https://www.facebook.com/sharygator/)
-
-<a href="http://deeleconomie.nl">Deeleconomie.nl</a>
-
-<a href="http://spullendelen.nl">Spullendelen.nl</a>
-
-<a href="https://www.peerby.com/">Peerby.com</a>
-
-<a href="https://www.supersoused.cz/">Supersoused.cz</a>
-
-<a href="https://www.facebook.com/sharygator/">Sharygator</a>
 
 #### Ne tak úplně webové zdroje
 
