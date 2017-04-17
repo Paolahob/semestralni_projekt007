@@ -47,6 +47,23 @@ spokojenysoused.cz
 <p>Our Global House of Plenty: Juul Martin at TEDxWageningen</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KBgQ1N-YVTA" frameborder="0" allowfullscreen></iframe>
 
+#### Vizuální inspirace pro budoucí vzhled webu
+
+Tou jsou určitě weby již výše zmíněné výše. Přesný vzhled se nám zatím formuje v hlavě, jelikož je nutné promyslet to tak, aby se web dobře zobrazoval na co nejvíce zařízeních, ale zároveň nevypadal extrémně jednodušše (i když v jednoduchosti je krása:). Shodli jsme se ale na barvách, a to barvách zahradních - zelená jako tráva a hnědá jako plot, případně modrá jako nebe.
+
+#### Základní obsah k tématu
+
+- Registrace, přihlášení
+- Mapa
+- Nabídka, poptávka
+- Tématické třídění
+- Diskuzní forum - rady a nápady
+- Hodnocení
+- Akce
+- Recenze produktů
+- Zkušenosti odjinud
+- Napište nám
+
 #### Strategie zveřejňování obsahu
 
 Web by měl fungovat především na základě příspěvků uživatelů, kteří by na něm publikovali recenze na nářadí, nástroje, apod. Samotní tvůrci webu by pak zastávali funkci editora. Dále by měl web informovat o akcích komunitního charakteru, odkazovat na to, co se ohledně zmíněného tématu děje v zahraničí.
