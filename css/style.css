@@ -1,5 +1,5 @@
 body {
-	background-image: url(img/bg_plot.png);
+	background-image: url("img/bg_plot.png");
 	background-position: bottom;
 	background-repeat: repeat-x;
 	background-color: #BEE3EB;

@@ -33,7 +33,6 @@ spokojenysoused.cz
 
 #### Ne tak úplně webové zdroje
 
-- https://www.youtube.com/watch?time_continue=387&v=KBgQ1N-YVTA
 - PIERSON, John. Going local: working in communities and neighbourhoods. New York, NY: Routledge, 2007. Social work skills series. ISBN 978-0-415-34780-8. Dostupné také z: http://www.loc.gov/catdir/toc/ecip078/2007001060.html
 - CLARK, Susan a Delie CLARK. Tvorba vize komunity: příručka pro společné plánování udržitelného rozvoje komunit. Brno: Nadace Partnerství, 2004. Metody komunitního rozvoje. ISBN 80-239-2067-7.
 - DIONNE, E.J. Community works: the revival of civil society in America. Washington, D.C.: Brookings Institution Press, c1998. ISBN 0-8157-1868-3.
