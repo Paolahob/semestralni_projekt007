@@ -1,8 +1,5 @@
 body {
-	background-image: url("img/bg_plot.png");
-	background-position: bottom;
-	background-repeat: repeat-x;
-	background-color: #BEE3EB;
+	background: url("img/bg_plot.png") bottom repeat-x #BEE3EB;
 }
 
 .wrapper {
