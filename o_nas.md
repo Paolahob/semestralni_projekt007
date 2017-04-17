@@ -45,3 +45,7 @@ spokojenysoused.cz
 
 <p>Our Global House of Plenty: Juul Martin at TEDxWageningen</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KBgQ1N-YVTA" frameborder="0" allowfullscreen></iframe>
+
+#### Strategie zveřejňování obsahu
+
+Web by měl fungovat především na základě příspěvků uživatelů, kteří by na něm publikovali recenze na nářadí, nástroje, apod. Samotní tvůrci webu by pak zastávali funkci editora. Dále by měl web informovat o akcích komunitního charakteru, odkazovat na to, co se ohledně zmíněného tématu děje v zahraničí.
