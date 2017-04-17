@@ -13,7 +13,7 @@ Studentka 1. ročníku bakalářského studia oboru Informační studia a knihov
 
 #### Petra Surovcová
 
-Studentka 1.ročníku bakalářského studia oboru Informační studia a knihovnictví na Masarykově univerzitě. Pracuji jako manažer v klientském servisu a tento projekt mi přijde skvělý, právě pro tu pomoc jeden druhému, což je jiný úhel mé práce. Věřím, že vzájemná a nezištná pomoc může fungovat a může oživit sousedské vztahy, tak jako je známe od našich prarodičů. 
+Studentka 1. ročníku bakalářského studia oboru Informační studia a knihovnictví na Masarykově univerzitě. Pracuji jako manažer v klientském servisu a tento projekt mi přijde skvělý, právě pro tu pomoc jeden druhému, což je jiný úhel mé práce. Věřím, že vzájemná a nezištná pomoc může fungovat a může oživit sousedské vztahy, tak jako je známe od našich prarodičů. 
 
 #### Filip Pluháček
 
