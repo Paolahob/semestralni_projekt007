@@ -3,7 +3,7 @@ layout: page
 title: Doma
 ---
 
-# Doma
+# DOMA
 
 Vítejte na webu pro lidi žijící vzájemně v sousedství a s přáním žít více v komunitě a vzájemné souhře.
 
