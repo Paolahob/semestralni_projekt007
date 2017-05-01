@@ -3,7 +3,7 @@ layout: page
 title: Doma
 ---
 
-# Doma
+# DOMA
 
 Vítejte na webu pro lidi žijící vzájemně v sousedství a s přáním žít více v komunitě a vzájemné souhře.
 
@@ -15,16 +15,6 @@ Tento komunitní web je určen jako nástroj pro vzájemné zápůjčky nářad�
   {% for post in site.posts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-## Stránky
-
-<ul>
-  {% for page in site.pages %}
-    <li>
-      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>

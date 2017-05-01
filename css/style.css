@@ -1,3 +1,7 @@
+body {
+	background: url("img/bg_plot.png") bottom repeat-x #BEE3EB;
+}
+
 .wrapper {
 	margin: 50px auto;
 	max-width: 800px;
